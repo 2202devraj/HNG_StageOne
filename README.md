@@ -1,5 +1,4 @@
 # HNG_StageOne
-# Profile_View
 
 Task: Create a Mobile Application with Personal Details
 Objective: Create a mobile application that prominently features your Slack identity, incorporates your Slack profile picture, and includes an “Open GitHub” button.
